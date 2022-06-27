@@ -11,7 +11,7 @@
 
 
 
-[![vinicius-rocha-oficial gits Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-rocha-oficial=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens que trabalho](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vinicius-rocha-oficial/vinicius-rocha-oficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
