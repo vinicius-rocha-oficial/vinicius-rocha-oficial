@@ -2,8 +2,8 @@
 
 ### Sou Vinicius , Estou Procurando Emprego Com Dev Junior 👋
 
-[![WHATSSAP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/vinicius-rocha-oficial)]
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/vinicius-rocha-oficial)]
+[![WHATSSAP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/vinicius-rocha-oficial)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/vinicius-rocha-oficial)
 
 
 <!--
