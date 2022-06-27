@@ -9,7 +9,7 @@
 
 
 ### ◉ Minhas Skills 
-### __________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 [![linkedin](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![linkedin](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
