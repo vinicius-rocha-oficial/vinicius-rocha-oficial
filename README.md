@@ -2,7 +2,9 @@
 
 ### ◉ Sou Vinicius , Entre Em Contato pelas minhas rede sociais:
 
-### 📚💻 Estou estudando JavaScript,TypeScript, NodeJS, MongoDB, Regex, Ajax ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-rocha-oficial&show_icons=true&theme=radical)
+### 📚💻 Estou estudando JavaScript,TypeScript, NodeJS, MongoDB, Regex, Ajax 
+
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-rocha-oficial&show_icons=true&theme=radical)
 
 ### ◉ Minhas Skills 
 __________________________________________________________________________________________________________________
