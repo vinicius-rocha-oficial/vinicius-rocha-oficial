@@ -1,6 +1,6 @@
 ## ◉ Bem Vindo ao meu Potifolio Em Construção. 😀
 
-### ◉ Sou Vinicius , Entre Em Contato pelas minhas rede sociais:
+### ◉ Entre Em Contato pelas minhas rede sociais:
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-rocha-oficial&show_icons=true&theme=radical)
 
