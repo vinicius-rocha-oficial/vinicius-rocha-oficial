@@ -1,4 +1,4 @@
-## ◉ Bem Vindo ao meu Potifolio Em Construção. 😀
+## ◉ Bem Vindo ao meu Potifolio
 
 ### ◉ Entre Em Contato pelas minhas rede sociais:
 
