@@ -4,9 +4,6 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-rocha-oficial&show_icons=true&theme=radical)
 
-### ◉ Minhas Skills 
-__________________________________________________________________________________________________________________
-
 <!--
 **vinicius-rocha-oficial/vinicius-rocha-oficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
